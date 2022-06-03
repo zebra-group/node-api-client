@@ -1,4 +1,4 @@
-# Recombee API Client
+# Recombee API Client (with Proxy Agent Support)
 
 A Node.js client (SDK) for easy use of the [Recombee](https://www.recombee.com/) recommendation API.
 If you don't have an account at Recombee yet, you can create a free account [here](https://www.recombee.com/).
